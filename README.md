@@ -7,63 +7,57 @@
 
 <div align="center">
   
-  <!-- HEADER BANNER -->
-  <div style="background-color: #0a0f1e; border: 3px solid #00D9FF; border-radius: 25px; padding: 30px 20px; margin: 20px 0;">
+  <!-- Glass Card Header -->
+  <div style="background-color: rgba(10,15,30,0.9); border: 1px solid rgba(0,217,255,0.4); border-radius: 40px; padding: 35px 25px; margin: 20px auto; max-width: 850px;">
     
-    <!-- Top Line -->
-    <div style="width: 80px; height: 3px; background-color: #00D9FF; margin: 0 auto 20px auto;"></div>
+    <!-- Icon Row -->
+    <div style="margin-bottom: 20px;">
+      <span style="font-size: 2rem;">🧠</span>
+      <span style="font-size: 1.5rem; color: #00D9FF; margin: 0 10px;">+</span>
+      <span style="font-size: 2rem;">🤖</span>
+      <span style="font-size: 1.5rem; color: #00D9FF; margin: 0 10px;">+</span>
+      <span style="font-size: 2rem;">🔬</span>
+    </div>
     
     <!-- Name -->
-    <h1 style="color: #00D9FF; font-size: 2.8rem; margin: 0; font-family: monospace;">
+    <h1 style="color: #00D9FF; font-size: 2.5rem; margin: 0; letter-spacing: 2px;">
       DR. MOBEEN SHAHROZ
     </h1>
     
-    <!-- Role Badge -->
-    <div style="display: inline-block; border: 1px dashed #00D9FF; border-radius: 30px; padding: 8px 25px; margin: 15px 0;">
-      <code style="color: #64ffda; background: none; font-size: 0.9rem;">
-        ▸ AI/ML RESEARCHER · LLM SPECIALIST · DEEP LEARNING ENGINEER ◂
-      </code>
-    </div>
-    
-    <!-- Stats -->
-    <div style="margin: 20px 0;">
-      <span style="color: #00D9FF;">🎓 PhD in CS</span>
-      <span style="color: #5a6e8a; margin: 0 10px;">|</span>
-      <span style="color: #00D9FF;">📚 16+ Q1 Publications</span>
-      <span style="color: #5a6e8a; margin: 0 10px;">|</span>
-      <span style="color: #00D9FF;">⭐ IF: 7.5</span>
-      <span style="color: #5a6e8a; margin: 0 10px;">|</span>
-      <span style="color: #00D9FF;">💼 8+ Years</span>
-    </div>
-    
-    <!-- Divider -->
+    <!-- Subtitle with Icons -->
     <div style="margin: 15px 0;">
-      <span style="color: #00D9FF;">✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦</span>
+      <p style="color: #64ffda; font-size: 1rem; letter-spacing: 3px; word-spacing: 8px;">
+        ◤ AI RESEARCHER ◢ &nbsp;&nbsp;◤ ML DEVELOPER ◢ &nbsp;&nbsp;◤ LLM EXPERT ◢
+      </p>
     </div>
     
-    <!-- Mission Box -->
-    <div style="border-left: 4px solid #00D9FF; border-right: 4px solid #00D9FF; padding: 12px 20px; margin: 15px auto; display: inline-block; max-width: 80%;">
-      <p style="color: #64ffda; margin: 0; font-family: monospace;">
-        ⚡ Business Challenge → Deployed AI Solution | Data → Decisions | Measurable Results ⚡
+    <!-- Stats with Icons Box -->
+    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 25px 0; padding: 15px; background-color: rgba(0,217,255,0.05); border-radius: 30px;">
+      <div><span style="font-size: 1.5rem;">🎓</span> <span style="color: #ccd6f6;">PhD in CS</span></div>
+      <div><span style="font-size: 1.5rem;">📚</span> <span style="color: #ccd6f6;">16+ Q1 Pubs</span></div>
+      <div><span style="font-size: 1.5rem;">⭐</span> <span style="color: #ccd6f6;">IF 7.5</span></div>
+      <div><span style="font-size: 1.5rem;">💼</span> <span style="color: #ccd6f6;">8+ Years</span></div>
+    </div>
+    
+    <!-- Mission Statement with Rocket -->
+    <div style="background-color: rgba(0,217,255,0.05); border-radius: 20px; padding: 15px; margin: 20px 0;">
+      <p style="color: #64ffda; margin: 0; font-size: 1rem;">
+        🚀 Business Challenge → Deployed AI Solution → Data → Decisions → Measurable Results 🚀
       </p>
     </div>
     
     <!-- Quote -->
-    <div style="margin-top: 20px;">
-      <p style="color: #5a6e8a; margin: 0; font-size: 0.9rem;">
-        ✦ "Research-grade precision | Production-ready results | Fewer bugs" ✦
+    <div style="margin-top: 15px;">
+      <p style="color: #5a6e8a; margin: 0;">
+        ⚡ "Research-grade precision · Production-ready results · Fewer bugs" ⚡
       </p>
     </div>
-    
-    <!-- Bottom Line -->
-    <div style="width: 60px; height: 2px; background-color: #00D9FF; margin: 20px auto 0 auto;"></div>
     
   </div>
   
 </div>
 
 <br/>
-
 <!-- WHO AM I SECTION -->
 <div align="center">
   <h2 style="color: #00D9FF;">🎯 WHO AM I?</h2>
