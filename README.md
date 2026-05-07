@@ -6,17 +6,11 @@
     <tr>
       <td align="center">
         
-        <h1>
-          🧠 &nbsp;&nbsp;+&nbsp;&nbsp; 🤖 &nbsp;&nbsp;+&nbsp;&nbsp; 🔬
-        </h1>
+        <h1>🧠 &nbsp;&nbsp;+&nbsp;&nbsp; 🤖 &nbsp;&nbsp;+&nbsp;&nbsp; 🔬</h1>
         
-        <h1>
-          <font color="#00D9FF"><b>DR. MOBEEN SHAHROZ</b></font>
-        </h1>
+        <h1><font color="#00D9FF"><b>DR. MOBEEN SHAHROZ</b></font></h1>
         
-        <p>
-          <font color="#64ffda"><b>🔹 AI RESEARCHER 🔹 ML DEVELOPER 🔹 LLM EXPERT 🔹</b></font>
-        </p>
+        <p><font color="#64ffda"><b>🔹 AI RESEARCHER 🔹 ML DEVELOPER 🔹 LLM EXPERT 🔹</b></font></p>
         
         <hr width="50%" noshade/>
         
@@ -27,22 +21,17 @@
           <font color="#00D9FF"><b>💼 8+ Years</b></font>
         </p>
         
-        <p>
-          <font color="#64ffda"><b>🚀 Business Challenge → Deployed AI Solution → Data → Decisions 🚀</b></font>
-        </p>
+        <p><font color="#64ffda"><b>🚀 Business Challenge → Deployed AI Solution → Data → Decisions 🚀</b></font></p>
         
-        <p>
-          <font color="#5a6e8a">✨ "Research-grade precision · Production-ready results · Fewer bugs" ✨</font>
-        </p>
+        <p><font color="#5a6e8a">✨ "Research-grade precision · Production-ready results · Fewer bugs" ✨</font></p>
         
       </td>
-    <tr>
+    </tr>
   </table>
   
   <br/>
   
 </div>
-
 <!-- WHO AM I SECTION -->
 <div align="center">
   <h2 style="color: #00D9FF;">🎯 WHO AM I?</h2>
