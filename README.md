@@ -16,7 +16,7 @@
   <tr>
     <td width="35%" align="center">
       <div style="position: relative; display: inline-block;">
-        <img src="profile_pic.png" alt="Dr. Mobeen Shahroz" width="220" style="border-radius: 20px; border: 3px solid #00D9FF; box-shadow: 0 0 20px rgba(0,217,255,0.3); transition: all 0.4s ease-in-out;" onmouseover="this.style.transform='scale(1.03)';this.style.boxShadow='0 0 35px rgba(0,217,255,0.6)';" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='0 0 20px rgba(0,217,255,0.3)';"/>
+        <img src="profile_pic1.png" alt="Dr. Mobeen Shahroz" width="220" style="border-radius: 20px; border: 3px solid #00D9FF; box-shadow: 0 0 20px rgba(0,217,255,0.3); transition: all 0.4s ease-in-out;" onmouseover="this.style.transform='scale(1.03)';this.style.boxShadow='0 0 35px rgba(0,217,255,0.6)';" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='0 0 20px rgba(0,217,255,0.3)';"/>
         <div style="position: absolute; bottom: 10px; right: 10px; background: #00D9FF; border-radius: 50%; width: 35px; height: 35px; display: flex; align-items: center; justify-content: center; font-size: 18px;">🤖</div>
       </div>
     </td>
