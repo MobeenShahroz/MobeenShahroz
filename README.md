@@ -1,54 +1,62 @@
-
-
 <div align="center">
-  <div style="background: #0a0f1e; border-radius: 30px; padding: 30px 20px; margin: 20px 0; border: 1px solid #00D9FF; box-shadow: 0 0 20px rgba(0,217,255,0.2), inset 0 0 30px rgba(0,217,255,0.03);">
-    
-    <!-- Neon Corner Accents -->
-    <div style="position: relative;">
-      <div style="position: absolute; top: -15px; left: -15px; width: 40px; height: 40px; border-top: 3px solid #00D9FF; border-left: 3px solid #00D9FF; border-radius: 8px 0 0 0;"></div>
-      <div style="position: absolute; top: -15px; right: -15px; width: 40px; height: 40px; border-top: 3px solid #00D9FF; border-right: 3px solid #00D9FF; border-radius: 0 8px 0 0;"></div>
-      <div style="position: absolute; bottom: -15px; left: -15px; width: 40px; height: 40px; border-bottom: 3px solid #00D9FF; border-left: 3px solid #00D9FF; border-radius: 0 0 0 8px;"></div>
-      <div style="position: absolute; bottom: -15px; right: -15px; width: 40px; height: 40px; border-bottom: 3px solid #00D9FF; border-right: 3px solid #00D9FF; border-radius: 0 0 8px 0;"></div>
-    </div>
-    
-    <!-- Glitch Text Effect -->
-    <h1 style="font-size: 2.8rem; font-weight: 800; margin: 0; font-family: 'Courier New', monospace; text-shadow: 2px 2px 0 #00D9FF, -2px -2px 0 #0066ff; color: #ccd6f6; letter-spacing: -1px;">
-      DR. MOBEEN SHAHROZ
-    </h1>
-    
-    <div style="margin: 15px 0;">
-      <code style="background: #0a0f1e; color: #64ffda; padding: 5px 15px; border-radius: 20px; border: 1px dashed #00D9FF; font-size: 0.8rem;">
-        ▸ AI/ML RESEARCHER · LLM SPECIALIST · DEEP LEARNING ENGINEER ◂
-      </code>
-    </div>
-    
-    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
-      <span style="font-family: monospace; color: #00D9FF;">[ PhD in CS ]</span>
-      <span style="color: #5a6e8a;">|</span>
-      <span style="font-family: monospace; color: #00D9FF;">[ 16+ Q1 Publications ]</span>
-      <span style="color: #5a6e8a;">|</span>
-      <span style="font-family: monospace; color: #00D9FF;">[ IF: 7.5 ]</span>
-      <span style="color: #5a6e8a;">|</span>
-      <span style="font-family: monospace; color: #00D9FF;">[ 8+ Years ]</span>
-    </div>
-    
-    <div style="background: rgba(0,217,255,0.05); border-radius: 15px; padding: 12px 20px; margin: 15px 0; border-left: 3px solid #00D9FF; border-right: 3px solid #00D9FF;">
-      <p style="color: #64ffda; margin: 0; font-family: monospace; font-size: 0.9rem;">
-        ⚡ Business Challenge → Deployed AI Solution | Data → Decisions | Measurable Results ⚡
-      </p>
-    </div>
-    
-    <div>
-      <p style="color: #5a6e8a; margin: 10px 0 0 0; font-size: 0.85rem;">
-        ✦ "Research-grade precision | Production-ready results | Fewer bugs" ✦
-      </p>
-    </div>
-    
-  </div>
+  <table style="width: 100%; background: #0a0f1e; border: 2px solid #00D9FF; border-radius: 20px; padding: 25px 15px;">
+    <tr>
+      <td align="center">
+        
+        <!-- Top Neon Line -->
+        <div style="width: 100px; height: 3px; background: #00D9FF; margin: 0 auto 20px auto;"></div>
+        
+        <!-- Main Title -->
+        <h1 style="color: #00D9FF; font-size: 2.5rem; margin: 0; font-family: monospace; text-shadow: 0 0 5px #00D9FF;">
+          DR. MOBEEN SHAHROZ
+        </h1>
+        
+        <!-- Subtitle -->
+        <div style="display: inline-block; background: #0a0f1e; border: 1px dashed #00D9FF; border-radius: 30px; padding: 8px 20px; margin: 15px 0;">
+          <code style="color: #64ffda; background: none; font-size: 0.85rem;">
+            ▸ AI/ML RESEARCHER · LLM SPECIALIST · DEEP LEARNING ENGINEER ◂
+          </code>
+        </div>
+        
+        <!-- Stats Row -->
+        <div style="margin: 20px 0;">
+          <span style="color: #00D9FF;">🎓 PhD in CS</span>
+          <span style="color: #5a6e8a; margin: 0 8px;">|</span>
+          <span style="color: #00D9FF;">📚 16+ Q1 Publications</span>
+          <span style="color: #5a6e8a; margin: 0 8px;">|</span>
+          <span style="color: #00D9FF;">⭐ IF: 7.5</span>
+          <span style="color: #5a6e8a; margin: 0 8px;">|</span>
+          <span style="color: #00D9FF;">💼 8+ Years</span>
+        </div>
+        
+        <!-- Divider -->
+        <div style="margin: 15px 0;">
+          <span style="color: #00D9FF;">✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦</span>
+        </div>
+        
+        <!-- Mission Statement -->
+        <div style="background: #0a0f1e; border-left: 3px solid #00D9FF; border-right: 3px solid #00D9FF; padding: 12px 20px; margin: 15px auto; display: inline-block;">
+          <p style="color: #64ffda; margin: 0; font-family: monospace;">
+            ⚡ Business Challenge → Deployed AI Solution | Data → Decisions | Measurable Results ⚡
+          </p>
+        </div>
+        
+        <!-- Bottom Quote -->
+        <div style="margin-top: 15px;">
+          <p style="color: #5a6e8a; margin: 0; font-size: 0.85rem;">
+            ✦ "Research-grade precision | Production-ready results | Fewer bugs" ✦
+          </p>
+        </div>
+        
+        <!-- Bottom Neon Line -->
+        <div style="width: 80px; height: 2px; background: #00D9FF; margin: 20px auto 0 auto;"></div>
+        
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
-
 ## 🎯 Who Am I?
 
 <div style="background: linear-gradient(135deg, #0f0f1a, #1a1a2e); border-radius: 20px; padding: 20px; border-left: 5px solid #00D9FF;">
