@@ -1,35 +1,42 @@
+<!--
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                    DR. MOBEEN SHAHROZ | AI RESEARCHER & ML DEVELOPER          ║
+║                  Ph.D. Computer Science | 16 Q1 Publications (IF: 7.5)        ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
-  
-  <br/>
-  
-  <table bgcolor="#0a0f1e" border="1" bordercolor="#00D9FF" cellpadding="20" cellspacing="0" width="100%">
-    <tr>
-      <td align="center">
-        
-        <h1>🧠 &nbsp;&nbsp;+&nbsp;&nbsp; 🤖 &nbsp;&nbsp;+&nbsp;&nbsp; 🔬</h1>
-        
-        <h1><font color="#00D9FF"><b>DR. MOBEEN SHAHROZ</b></font></h1>
-        
-        <p><font color="#64ffda"><b>🔹 AI RESEARCHER 🔹 ML DEVELOPER 🔹 LLM EXPERT 🔹</b></font></p>
-        
-        <hr width="50%" noshade/>
-        
-        <p>
-          <font color="#00D9FF"><b>🎓 PhD in CS</b></font> &nbsp;|&nbsp;
-          <font color="#00D9FF"><b>📚 16+ Q1 Pubs</b></font> &nbsp;|&nbsp;
-          <font color="#00D9FF"><b>⭐ IF 7.5</b></font> &nbsp;|&nbsp;
-          <font color="#00D9FF"><b>💼 8+ Years</b></font>
-        </p>
-        
-        <p><font color="#64ffda"><b>🚀 Business Challenge → Deployed AI Solution → Data → Decisions 🚀</b></font></p>
-        
-        <p><font color="#5a6e8a">✨ "Research-grade precision · Production-ready results · Fewer bugs" ✨</font></p>
-        
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&duration=3500&pause=500&color=00D9FF&center=true&vCenter=true&width=700&lines=Dr.+Mobeen+Shahroz;Ph.D.+Computer+Science+%7C+AI+Researcher;LLMs+%7C+Medical+Imaging+%7C+Deep+Learning;16+Q1+Publications+%7C+Impact+Factor+7.5;Building+Intelligent+Systems+for+Tomorrow" alt="Typing Animation" />
+</div>
+
+<br/>
+
+<!-- Futuristic Profile Banner with Image -->
+<table align="center" width="100%" style="background: linear-gradient(135deg, #0a0f1e 0%, #0d1525 100%); border-radius: 20px; padding: 20px;">
+  <tr>
+    <td width="35%" align="center">
+      <div style="position: relative; display: inline-block;">
+        <img src="profile_pic.png" alt="Dr. Mobeen Shahroz" width="220" style="border-radius: 20px; border: 3px solid #00D9FF; box-shadow: 0 0 20px rgba(0,217,255,0.3); transition: all 0.4s ease-in-out;" onmouseover="this.style.transform='scale(1.03)';this.style.boxShadow='0 0 35px rgba(0,217,255,0.6)';" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='0 0 20px rgba(0,217,255,0.3)';"/>
+        <div style="position: absolute; bottom: 10px; right: 10px; background: #00D9FF; border-radius: 50%; width: 35px; height: 35px; display: flex; align-items: center; justify-content: center; font-size: 18px;">🤖</div>
+      </div>
+    </td>
+    <td width="65%" style="padding-left: 25px;">
+      <h1 style="color: #00D9FF; margin-bottom: 5px; font-size: 2.2em;">DR. MOBEEN SHAHROZ</h1>
+      <p style="color: #8892b0; font-size: 1.1em; margin-top: 0;">Ph.D. Computer Science | AI Researcher & Machine Learning Specialist</p>
+      <p style="color: #ccd6f6;">🔬 <strong>Specializations:</strong> Natural Language Processing (NLP) • Large Language Models (LLMs) • Medical Imaging AI • Deep Learning Architectures</p>
+      <p style="color: #64ffda;">📄 <strong>Research Impact:</strong> 16 Peer-Reviewed Publications | 14 Q1 Journals | Expert Systems with Applications (IF: 7.5) | Scientific Reports (Nature Portfolio) | IEEE Access</p>
+      <p>📍 Bahawalpur, Pakistan | 🎓 Ph.D. Completed 2024 | 🌍 Open for Global Collaborations & Post-Doctoral Roles</p>
+      <p>
+        <a href="https://github.com/MobeenShahroz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00D9FF&color=0a0f1e"/></a>
+        <a href="https://www.linkedin.com/in/mobeen-shahroz-6b9915133"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+        <a href="mailto:mobeensahhroz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+        <a href="https://scholar.google.com/citations?user=fyQl0QYnkzoC&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
+      </p>
+    </td>
+   </>
+</table>
+
+<br/>
   
 </div>
 <!-- WHO AM I SECTION -->
