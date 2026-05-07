@@ -1,242 +1,356 @@
 <!--
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                    DR. MOBEEN SHAHROZ | AI RESEARCHER & ML DEVELOPER          ║
-║                  Ph.D. Computer Science | 16 Q1 Publications (IF: 7.5)        ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
+████████████████████████████████████████████████████████████████████████████████
+█▄─▄▄─█▄─▄▄▀█▄─▄▄─█▄─▀─▄▄█▄─▄▄─█▄─▄▄▀█▄─▄▄▀█▄─▄█─▄▄▄▄█▄─▄▄─█▄─▀─▄▄█▄─▄▄▀█▄─▄▄▄▄█
+██─▄▄▄██─▄─▄██─▄█▀██▀─▀─███─▄█▀██─▄─▄██─██─██─██─██▄─██─▄█▀██▀─▀─███─▄─▄██─▄▄▄▄█
+▀▄▄▄▀▀▀▄▄▀▄▄▀▄▄▄▄▄▀▄▄▀▄▄▀▀▄▄▄▄▄▀▄▄▀▄▄▀▄▄▄▀▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▀▄▄▀▀▄▄▀▄▄▀▄▄▄▄▄▀
+████████████████████████████████████████████████████████████████████████████████
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&duration=3500&pause=500&color=00D9FF&center=true&vCenter=true&width=700&lines=Dr.+Mobeen+Shahroz;Ph.D.+Computer+Science+%7C+AI+Researcher;LLMs+%7C+Medical+Imaging+%7C+Deep+Learning;16+Q1+Publications+%7C+Impact+Factor+7.5;Building+Intelligent+Systems+for+Tomorrow" alt="Typing Animation" />
+  <pre style="background: linear-gradient(135deg, #0a0f1e, #0d1525, #1a1a2e); padding: 12px 20px; border-radius: 20px; border: 1px solid rgba(0,217,255,0.3); font-family: 'Courier New', monospace; line-height: 1.15; color: #00D9FF; text-shadow: 0 0 5px #00D9FF;">
+╔══════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                              ║
+║     ██████╗ ██████╗     ███╗   ███╗ ██████╗ ██████╗ ███████╗███████╗███╗   ██╗               ║
+║     ██╔══██╗██╔══██╗    ████╗ ████║██╔═══██╗██╔══██╗██╔════╝██╔════╝████╗  ██║               ║
+║     ██║  ██║██████╔╝    ██╔████╔██║██║   ██║██████╔╝█████╗  █████╗  ██╔██╗ ██║               ║
+║     ██║  ██║██╔══██╗    ██║╚██╔╝██║██║   ██║██╔══██╗██╔══╝  ██╔══╝  ██║╚██╗██║               ║
+║     ██████╔╝██║  ██║    ██║ ╚═╝ ██║╚██████╔╝██████╔╝███████╗███████╗██║ ╚████║               ║
+║     ╚═════╝ ╚═╝  ╚═╝    ╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═══╝               ║
+║                                                                                              ║
+║                    🧠 AI/ML RESEARCHER | LLM SPECIALIST | DEEP LEARNING ENGINEER            ║
+║                                                                                              ║
+║    ╔═══════════════════════════════════════════════════════════════════════════════════╗    ║
+║    ║  🎓 PhD in CS | 📚 16+ Q1 Publications | ⭐ IF: 7.5 | 💼 8+ Years Experience       ║    ║
+║    ║  🔬 Business Challenge → Deployed AI Solution | Data → Decisions | Measurable      ║    ║
+║    ╚═══════════════════════════════════════════════════════════════════════════════════╝    ║
+║                                                                                              ║
+║               ✦ "Research-grade precision | Production-ready results | Fewer bugs" ✦       ║
+║                                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════╝
+  </pre>
 </div>
 
 <br/>
 
-<!-- Futuristic Profile Banner with Image -->
-<table align="center" width="100%" style="background: linear-gradient(135deg, #0a0f1e 0%, #0d1525 100%); border-radius: 20px; padding: 20px;">
-  <tr>
-    <td width="35%" align="center">
-      <div style="position: relative; display: inline-block;">
-        <img src="profile_pic1.png" alt="Dr. Mobeen Shahroz" width="220" style="border-radius: 20px; border: 3px solid #00D9FF; box-shadow: 0 0 20px rgba(0,217,255,0.3); transition: all 0.4s ease-in-out;" onmouseover="this.style.transform='scale(1.03)';this.style.boxShadow='0 0 35px rgba(0,217,255,0.6)';" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='0 0 20px rgba(0,217,255,0.3)';"/>
-        <div style="position: absolute; bottom: 10px; right: 10px; background: #00D9FF; border-radius: 50%; width: 35px; height: 35px; display: flex; align-items: center; justify-content: center; font-size: 18px;">🤖</div>
-      </div>
-    </td>
-    <td width="65%" style="padding-left: 25px;">
-      <h1 style="color: #00D9FF; margin-bottom: 5px; font-size: 2.2em;">DR. MOBEEN SHAHROZ</h1>
-      <p style="color: #8892b0; font-size: 1.1em; margin-top: 0;">Ph.D. Computer Science | AI Researcher & Machine Learning Specialist</p>
-      <p style="color: #ccd6f6;">🔬 <strong>Specializations:</strong> Natural Language Processing (NLP) • Large Language Models (LLMs) • Medical Imaging AI • Deep Learning Architectures</p>
-      <p style="color: #64ffda;">📄 <strong>Research Impact:</strong> 16 Peer-Reviewed Publications | 14 Q1 Journals | Expert Systems with Applications (IF: 7.5) | Scientific Reports (Nature Portfolio) | IEEE Access</p>
-      <p>📍 Bahawalpur, Pakistan | 🎓 Ph.D. Completed 2024 | 🌍 Open for Global Collaborations & Post-Doctoral Roles</p>
-      <p>
-        <a href="https://github.com/MobeenShahroz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00D9FF&color=0a0f1e"/></a>
-        <a href="https://www.linkedin.com/in/mobeen-shahroz-6b9915133"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-        <a href="mailto:mobeensahhroz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-        <a href="https://scholar.google.com/citations?user=fyQl0QYnkzoC&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
-      </p>
-    </td>
-   </>
-</table>
-
-<br/>
-
-## 🎯 Professional Mission
-
-> *"Developing cutting-edge **Deep Learning, NLP, LLMs, and Computer Vision** solutions that transform healthcare, cybersecurity, and intelligent systems — bridging the gap between academic research and industrial innovation."*
-
-<br/>
-
-## ⚡ Ranking-Focused Skill Set (Proficiency Levels)
-
-*Hover over any skill bar to see my publication/application context.*
-
-### 🧠 Deep Learning & Neural Architectures
-
-| Skill | Proficiency | Key Applications |
-|:------|:------------|:-----------------|
-| CNNs / RNNs / LSTMs | <div style="background:#0a0f1e; border-radius:10px; width:200px;"><div style="background:linear-gradient(90deg,#00D9FF,#0066ff); width:95%; border-radius:10px; text-align:center; color:white;">Expert 95%</div></div> | BHCNet, EfficientNetV2L, Image Classification |
-| Transformers & BERT | <div style="background:#0a0f1e; border-radius:10px; width:200px;"><div style="background:linear-gradient(90deg,#00D9FF,#0066ff); width:92%; border-radius:10px;">Expert 92%</div></div> | Ensemble LRD, Sentiment Analysis, Text Classification |
-| Transfer Learning | <div style="background:#0a0f1e; border-radius:10px; width:200px;"><div style="background:linear-gradient(90deg,#00D9FF,#0066ff); width:94%; border-radius:10px;">Expert 94%</div></div> | Medical Imaging, Pneumonia Detection |
-| Ensemble Learning | <div style="background:#0a0f1e; border-radius:10px; width:200px;"><div style="background:linear-gradient(90deg,#00D9FF,#0066ff); width:90%; border-radius:10px;">Advanced 90%</div></div> | Stacking, Bagging, Boosting, RKSVM |
-
-### 📊 Machine Learning & Statistical Modeling
-
-| Skill | Proficiency | Key Applications |
-|:------|:------------|:-----------------|
-| Classical ML (SVM, RF, XGBoost) | <div style="background:#0a0f1e; border-radius:10px; width:200px;"><div style="background:linear-gradient(90deg,#00D9FF,#0066ff); width:93%; border-radius:10px;">Expert 93%</div></div> | LDSVM, Phishing Detection, Botnet Detection |
-| Hyperparameter Tuning | <div style="background:#0a0f1e; border-radius:10px; width:200px;"><div style="background:linear-gradient(90deg,#00D9FF,#0066ff); width:91%; border-radius:10px;">Advanced 91%</div></div> | Genetic Algorithms + CNN, Grid/Random Search |
-| Feature Engineering | <div style="background:#0a0f1e; border-radius:10px; width:200px;"><div style="background:linear-gradient(90deg,#00D9FF,#0066ff); width:92%; border-radius:10px;">Expert 92%</div></div> | PCA, Dimensionality Reduction, Feature Selection |
-| Cross-Validation | <div style="background:#0a0f1e; border-radius:10px; width:200px;"><div style="background:linear-gradient(90deg,#00D9FF,#0066ff); width:94%; border-radius:10px;">Expert 94%</div></div> | K-Fold, Stratified, Time Series Split |
-
-### 🔬 Natural Language Processing & LLMs
-
-| Skill | Proficiency | Key Applications |
-|:------|:------------|:-----------------|
-| LLM Fine-tuning | <div style="background:#0a0f1e; border-radius:10px; width:200px;"><div style="background:linear-gradient(90deg,#00D9FF,#0066ff); width:88%; border-radius:10px;">Advanced 88%</div></div> | BERT, Transformers for Domain Adaptation |
-| Sentiment Analysis | <div style="background:#0a0f1e; border-radius:10px; width:200px;"><div style="background:linear-gradient(90deg,#00D9FF,#0066ff); width:94%; border-radius:10px;">Expert 94%</div></div> | Ensemble LRD, IMDB Reviews |
-| Multilingual NLP | <div style="background:#0a0f1e; border-radius:10px; width:200px;"><div style="background:linear-gradient(90deg,#00D9FF,#0066ff); width:86%; border-radius:10px;">Advanced 86%</div></div> | Roman Urdu/Urdu Translation (RUTUT) |
-| Named Entity Recognition | <div style="background:#0a0f1e; border-radius:10px; width:200px;"><div style="background:linear-gradient(90deg,#00D9FF,#0066ff); width:85%; border-radius:10px;">Advanced 85%</div></div> | Information Extraction |
-
-### 🖼️ Computer Vision & Medical Imaging
-
-| Skill | Proficiency | Key Applications |
-|:------|:------------|:-----------------|
-| Medical Image Classification | <div style="background:#0a0f1e; border-radius:10px; width:200px;"><div style="background:linear-gradient(90deg,#00D9FF,#0066ff); width:93%; border-radius:10px;">Expert 93%</div></div> | CT Scan (Brain Hemorrhage), Chest X-ray (Pneumonia) |
-| Image Augmentation | <div style="background:#0a0f1e; border-radius:10px; width:200px;"><div style="background:linear-gradient(90deg,#00D9FF,#0066ff); width:90%; border-radius:10px;">Advanced 90%</div></div> | Histopathology, Plant Disease |
-| Explainability (Grad-CAM) | <div style="background:#0a0f1e; border-radius:10px; width:200px;"><div style="background:linear-gradient(90deg,#00D9FF,#0066ff); width:87%; border-radius:10px;">Advanced 87%</div></div> | Model Interpretability, Attention Maps |
-
-### 🔒 AI for Cybersecurity
-
-| Skill | Proficiency | Key Applications |
-|:------|:------------|:-----------------|
-| Botnet Attack Detection | <div style="background:#0a0f1e; border-radius:10px; width:200px;"><div style="background:linear-gradient(90deg,#00D9FF,#0066ff); width:91%; border-radius:10px;">Advanced 91%</div></div> | IoT Environment, Hybrid ML Models |
-| Phishing Detection | <div style="background:#0a0f1e; border-radius:10px; width:200px;"><div style="background:linear-gradient(90deg,#00D9FF,#0066ff); width:92%; border-radius:10px;">Expert 92%</div></div> | URL Feature Analysis, Hybrid ML |
-| IoT Threat Protection | <div style="background:#0a0f1e; border-radius:10px; width:200px;"><div style="background:linear-gradient(90deg,#00D9FF,#0066ff); width:90%; border-radius:10px;">Advanced 90%</div></div> | IoTTPS (Ensemble RKSVM) |
-
-<br/>
-
-## 🛠️ Technology Arsenal (Interactive Badges)
-
 <div align="center">
+  <div style="background: linear-gradient(90deg, #0a0f1e, #1a1a2e, #0a0f1e); border-radius: 40px; padding: 8px 25px; display: inline-block; border: 1px solid rgba(0,217,255,0.4);">
+    <p style="color: #64ffda; font-family: 'Georgia', serif; font-size: 0.9rem; letter-spacing: 1px; margin: 8px 0;">
+      ⚡ From business challenge → deployed AI solution. I turn data into decisions, automate what slows you down. ⚡
+    </p>
+  </div>
+</div>
+
+<br/>
+
+## 🎯 Who Am I?
+
+<div style="background: linear-gradient(135deg, #0f0f1a, #1a1a2e); border-radius: 20px; padding: 20px; border-left: 5px solid #00D9FF;">
+  <p style="color: #ccd6f6; font-size: 1.05rem;">
+    I'm <strong style="color: #00D9FF;">Dr. Mobeen Shahroz</strong> — an AI Researcher and ML Developer with a Ph.D. in Computer Science 
+    and <strong>8+ years of experience</strong> turning business challenges into deployed AI solutions.
+  </p>
+  <p style="color: #8892b0; margin-top: 12px;">
+    🚀 I build <strong>custom deep learning models</strong> that scale — from predictive analytics to intelligent automation. 
+    Using <strong>Python • PyTorch • TensorFlow • LLMs</strong> to solve real business problems, not just research experiments.
+  </p>
+  <p style="color: #64ffda; margin-top: 12px;">
+    ✅ <strong>Fewer bugs • Better models • Measurable results</strong> — I bring research-grade precision to every project.
+  </p>
+  <p style="color: #00D9FF; margin-top: 15px; font-size: 1.1rem;">
+    📌 <strong>Need a model built, fine-tuned, or deployed? ==> I get it done.</strong>
+  </p>
+</div>
+
+<br/>
+
+---
+
+## 🧠 WHAT I BUILD FOR YOU
+
+---
+
+### ✦ COMPUTER VISION (Classification | Detection | Segmentation)
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 10px 0;">
+  <img src="https://img.shields.io/badge/Image_Classification-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Custom CNNs, ResNet, EfficientNet"/>
+  <img src="https://img.shields.io/badge/Object_Detection-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" title="YOLO, Faster R-CNN, SAM"/>
+  <img src="https://img.shields.io/badge/Image_Segmentation-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" title="U-Net, Mask R-CNN, SAM"/>
+  <img src="https://img.shields.io/badge/Medical_Imaging-5C3EE8?style=for-the-badge&logo=openCV&logoColor=white" title="CT Scans, X-rays, Histopathology"/>
+  <img src="https://img.shields.io/badge/Defect_Detection-D00000?style=for-the-badge&logo=keras&logoColor=white" title="Industrial Quality Control"/>
+  <img src="https://img.shields.io/badge/Transfer_Learning-008080?style=for-the-badge&logo=keras&logoColor=white" title="Tailored to Your Dataset"/>
+</div>
+
+| Capability | Description |
+|:------------|:------------|
+| 📸 **Image Classification** | Custom CNNs, modern architectures (ResNet, EfficientNet, ConvNeXt) |
+| 🎯 **Object Detection** | YOLO, Faster R-CNN, SAM pipelines |
+| 🩻 **Medical Image Analysis** | CT scans, Chest X-rays, histopathology |
+| 🏭 **Industrial Defect Detection** | Quality control systems, anomaly detection |
+| 🔄 **Transfer Learning** | Pre-trained models fine-tuned to your dataset |
+
+---
+
+### ✦ NLP & LLM SOLUTIONS
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 10px 0;">
+  <img src="https://img.shields.io/badge/LLM_Fine_Tuning-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" title="BERT, LLaMA, Mistral, GPT"/>
+  <img src="https://img.shields.io/badge/RAG_Systems-4285F4?style=for-the-badge&logo=langchain&logoColor=white" title="LangChain, Embeddings, Vector DB"/>
+  <img src="https://img.shields.io/badge/Chatbots-47A141?style=for-the-badge&logo=chatbot&logoColor=white" title="LLM-powered Assistants"/>
+  <img src="https://img.shields.io/badge/Sentiment_Analysis-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Ensemble LRD, BERT"/>
+  <img src="https://img.shields.io/badge/Multilingual_NLP-00D9FF?style=for-the-badge&logo=python&logoColor=white" title="Urdu, Roman Urdu"/>
+  <img src="https://img.shields.io/badge/NER-00599C?style=for-the-badge&logo=spacy&logoColor=white" title="Named Entity Recognition"/>
+</div>
+
+| Capability | Description |
+|:------------|:------------|
+| 🔥 **LLM Fine-tuning** | BERT, LLaMA, Mistral, GPT for domain adaptation |
+| 📚 **RAG Systems** | LangChain, embeddings, vector databases for document AI |
+| 💬 **LLM Apps** | Chatbots, document assistants, conversational AI |
+| 📊 **Text Classification** | Sentiment analysis, topic modeling, intent detection |
+| 🌏 **Multilingual NLP** | Specialized in Urdu & Roman Urdu text processing |
+
+---
+
+### ✦ ADVANCED AI ARCHITECTURES
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 10px 0;">
+  <img src="https://img.shields.io/badge/CNNs-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" title="Custom CNN Architectures"/>
+  <img src="https://img.shields.io/badge/Transformers-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" title="Attention is All You Need"/>
+  <img src="https://img.shields.io/badge/Vision_Transformers-00D9FF?style=for-the-badge&logo=ai&logoColor=white" title="ViT, Swin Transformer"/>
+  <img src="https://img.shields.io/badge/YOLO-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" title="Real-time Detection"/>
+  <img src="https://img.shields.io/badge/SAM-3776AB?style=for-the-badge&logo=meta&logoColor=white" title="Segment Anything Model"/>
+  <img src="https://img.shields.io/badge/Diffusion_Models-008080?style=for-the-badge&logo=stabilityai&logoColor=white" title="Stable Diffusion"/>
+</div>
+
+| Architecture | Use Case |
+|:-------------|:---------|
+| 🧠 **CNNs** | Image classification, feature extraction |
+| 🔄 **Transformers** | NLP, Computer Vision, Attention mechanisms |
+| 👁️ **Vision Transformers (ViT, Swin)** | Advanced image understanding |
+| 🚀 **YOLO / SAM** | Real-time detection & segmentation |
+| 🎨 **Diffusion Models** | Generative AI applications |
+
+---
+
+### ✦ EXPLAINABLE AI (XAI)
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 10px 0;">
+  <img src="https://img.shields.io/badge/SHAP-00D9FF?style=for-the-badge&logo=python&logoColor=white" title="SHAP Values"/>
+  <img src="https://img.shields.io/badge/LIME-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Local Interpretable Models"/>
+  <img src="https://img.shields.io/badge/GradCAM-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" title="Gradient-weighted Class Activation Mapping"/>
+  <img src="https://img.shields.io/badge/Captum-64ffda?style=for-the-badge&logo=meta&logoColor=black" title="Model Interpretability"/>
+</div>
+
+| Tool | Purpose |
+|:-----|:--------|
+| 🔍 **SHAP** | Global & local feature importance |
+| 📍 **LIME** | Individual prediction explanations |
+| 🖼️ **Grad-CAM** | Visual explanations for CNNs |
+| 🧪 **Captum** | PyTorch model interpretability |
+
+---
+
+### ✦ MACHINE LEARNING SYSTEMS
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 10px 0;">
+  <img src="https://img.shields.io/badge/ML_Pipelines-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Data → Preprocessing → Training → Deployment"/>
+  <img src="https://img.shields.io/badge/Feature_Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Structured & High-dimensional Data"/>
+  <img src="https://img.shields.io/badge/Ensemble_Learning-00D9FF?style=for-the-badge&logo=ai&logoColor=white" title="Stacking, Bagging, Boosting"/>
+  <img src="https://img.shields.io/badge/Clustering-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" title="K-means, Canopy-based"/>
+  <img src="https://img.shields.io/badge/Anomaly_Detection-D00000?style=for-the-badge&logo=security&logoColor=white" title="IoT Intrusion, Botnets"/>
+  <img src="https://img.shields.io/badge/Healthcare_AI-008080?style=for-the-badge&logo=healthcare&logoColor=white" title="Medical Imaging AI"/>
+</div>
+
+| Component | Stack |
+|:----------|:------|
+| 📊 **Preprocessing** | Missing values, normalization, encoding, scaling |
+| 🔧 **Feature Engineering** | Structured & high-dimensional data |
+| 📈 **Evaluation** | Accuracy, F1, Precision/Recall, ROC-AUC |
+| 🧩 **Ensemble Methods** | Stacking, Bagging, Boosting |
+| 🔴 **Anomaly Detection** | IoT intrusion, botnet detection |
+
+---
+
+### ✦ DEPLOYMENT & INTEGRATION
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 10px 0;">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" title="REST APIs"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" title="Lightweight APIs"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" title="Interactive Apps"/>
+  <img src="https://img.shields.io/badge/Gradio-FF6F00?style=for-the-badge&logo=gradio&logoColor=white" title="ML Demos"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Containerization"/>
+</div>
+
+| Tool | Purpose |
+|:-----|:--------|
+| 🚀 **FastAPI / Flask** | REST API endpoints for models |
+| 📱 **Streamlit / Gradio** | Interactive ML demos & prototypes |
+| 🐳 **Docker** | Containerized deployment |
+
+---
+
+---
+
+## 🔧 FULL TECH STACK
+
+### 🐍 Languages & Core
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Expert"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" title="Database"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Backend"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="API Integration"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" title="Backend API"/>
+</div>
+
+### 🔥 Deep Learning & ML
+<div align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</div>
+
+### 🤗 LLM & NLP
+<div align="center">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-00D9FF?style=for-the-badge&logo=langchain&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Transformers-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BERT-008080?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLTK-64ffda?style=for-the-badge&logo=python&logoColor=black"/>
+</div>
+
+### 🖼️ Computer Vision
+<div align="center">
+  <img src="https://img.shields.io/badge/YOLO-00D9FF?style=for-the-badge&logo=ultralytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAM-3776AB?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ViT-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EfficientNet-5C3EE8?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ConvNeXt-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+</div>
+
+### 🔍 Explainable AI
+<div align="center">
+  <img src="https://img.shields.io/badge/SHAP-00D9FF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LIME-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GradCAM-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Captum-64ffda?style=for-the-badge&logo=meta&logoColor=black"/>
+</div>
+
+### 🚀 Deployment & Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</div>
+
+<br/>
+
+---
+
+## 📊 PROVEN RESULTS (Research → Production)
+
+<div style="background: linear-gradient(135deg, #0f0f1a, #1a1a2e); border-radius: 20px; padding: 15px 20px;">
+
+| Project | Achievement | Publication |
+|:---------|:------------|:------------|
+| 🧠 **BHCNet** | Brain hemorrhage detection → 95%+ accuracy on multi-class CT scans | IEEE Access 2021 |
+| 🩻 **EfficientNetV2L** | Pneumonia detection → production-ready chest X-ray pipeline | IEEE Access 2024 |
+| 📊 **Ensemble BERT** | Sentiment analysis → outperformed single-model baselines | Scientific Reports 2025 |
+| 🛡️ **IoT Botnet Detection** | Ensemble RKSVM → real-time cybersecurity AI | Sensors & IEEE Access |
+| 🌐 **RUTUT** | Roman Urdu to Urdu translation → multilingual NLP system | IEEE Access 2020 |
+
+✅ **16 peer-reviewed AI/ML publications in Q1 international journals** — research translated into working systems
+
+</div>
+
+<br/>
+
+---
+
+## ✅ WHAT YOU GET ON EVERY PROJECT
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 12px; margin: 15px 0;">
+
+<div style="background: linear-gradient(135deg, #0f0f1a, #1a1a2e); border-radius: 15px; padding: 12px 15px; border-left: 3px solid #00D9FF;">
+  📝 <strong>Clean, documented, production-quality Python code</strong>
+</div>
+
+<div style="background: linear-gradient(135deg, #0f0f1a, #1a1a2e); border-radius: 15px; padding: 12px 15px; border-left: 3px solid #64ffda;">
+  📓 <strong>Jupyter notebooks with step-by-step explanations</strong>
+</div>
+
+<div style="background: linear-gradient(135deg, #0f0f1a, #1a1a2e); border-radius: 15px; padding: 12px 15px; border-left: 3px solid #00D9FF;">
+  🚀 <strong>Trained models ready for immediate deployment</strong>
+</div>
+
+<div style="background: linear-gradient(135deg, #0f0f1a, #1a1a2e); border-radius: 15px; padding: 12px 15px; border-left: 3px solid #64ffda;">
+  📅 <strong>Clear milestones & regular progress updates</strong>
+</div>
+
+<div style="background: linear-gradient(135deg, #0f0f1a, #1a1a2e); border-radius: 15px; padding: 12px 15px; border-left: 3px solid #00D9FF;">
+  🛠️ <strong>Post-delivery support for integration questions</strong>
+</div>
+
+<div style="background: linear-gradient(135deg, #0f0f1a, #1a1a2e); border-radius: 15px; padding: 12px 15px; border-left: 3px solid #64ffda;">
+  ⚡ <strong>Response within 5 hours — always</strong>
+</div>
+
+</div>
+
+<br/>
+
+---
+
+## 🚀 BEST FIT PROJECTS
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 15px 0;">
+  <img src="https://img.shields.io/badge/Custom_Deep_Learning-00D9FF?style=for-the-badge&logo=pytorch&logoColor=white" title="From Scratch"/>
+  <img src="https://img.shields.io/badge/Computer_Vision_Pipelines-FF6F00?style=for-the-badge&logo=opencv&logoColor=white" title="Classification, Detection, Segmentation"/>
+  <img src="https://img.shields.io/badge/NLP_&_LLM_Systems-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" title="BERT, RAG, Chatbots"/>
+  <img src="https://img.shields.io/badge/Medical_Imaging_AI-5C3EE8?style=for-the-badge&logo=healthcare&logoColor=white" title="CT, X-ray, Histopathology"/>
+  <img src="https://img.shields.io/badge/Cybersecurity_ML-D00000?style=for-the-badge&logo=security&logoColor=white" title="Anomaly Detection"/>
+  <img src="https://img.shields.io/badge/Multilingual_NLP-008080?style=for-the-badge&logo=google&logoColor=white" title="Urdu, Roman Urdu"/>
+  <img src="https://img.shields.io/badge/Research_→_Code-64ffda?style=for-the-badge&logo=arxiv&logoColor=black" title="Paper to Implementation"/>
+</div>
+
+- ✦ Custom deep learning model development from scratch
+- ✦ Computer vision pipelines → classification, detection, segmentation
+- ✦ NLP tasks → sentiment analysis, text classification, BERT fine-tuning
+- ✦ LLM & RAG system development using LangChain
+- ✦ Medical imaging AI → CT scans, X-rays, histopathology
+- ✦ Research paper → working Python implementation
+- ✦ Cybersecurity & anomaly detection ML models
+- ✦ Multilingual NLP for South Asian languages
+
+<br/>
+
+---
+
+## 📫 LET'S BUILD SOMETHING THAT WORKS
+
+<div align="center" style="background: linear-gradient(135deg, #0f0f1a, #1a1a2e); border-radius: 30px; padding: 25px; border: 1px solid rgba(0,217,255,0.3); margin: 20px 0;">
+  <p style="color: #00D9FF; font-size: 1.2rem; margin: 0;">
+    📩 <strong>Send me your project details</strong>
+  </p>
+  <p style="color: #8892b0; margin: 10px 0;">
+    I will reply within <strong style="color: #64ffda;">4 hours</strong> with a clear plan, realistic timeline, and honest budget — no overpromising.
+  </p>
+  <p style="color: #64ffda; margin-top: 15px; font-size: 1.1rem;">
+    ⚡ Let's build something that works. ⚡
+  </p>
   
-### 🐍 Core Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0f1e" title="Expert: All DL/ML Projects"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0a0f1e" title="Android & Backend"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0a0f1e" title="Performance Optimization"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=0a0f1e" title="Database Management"/>
-
-### 🔥 Deep Learning Frameworks
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0a0f1e" title="Production Models"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0a0f1e" title="Research Prototyping"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=0a0f1e" title="Rapid Experimentation"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0a0f1e" title="Transformers, BERT"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0a0f1e" title="Image Processing"/>
-
-### 📊 Data Science & ML
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0a0f1e" title="Classical ML"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0a0f1e" title="Linear Algebra"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0a0f1e" title="Data Wrangling"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0f1e" title="Visualization"/>
-
-### 🔬 Research & Collaboration
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0a0f1e" title="Interactive Notebooks"/>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252&labelColor=0a0f1e" title="Cloud GPU"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0f1e" title="Version Control"/>
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white&labelColor=0a0f1e" title="Paper Writing"/>
-<img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white&labelColor=0a0f1e" title="Collaborative Writing"/>
+  <div style="margin-top: 20px;">
+    <a href="https://github.com/MobeenShahroz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0a0f1e"/></a>
+    <a href="https://www.linkedin.com/in/mobeen-shahroz-6b9915133"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:mobeensahhroz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://scholar.google.com/citations?user=fyQl0QYnkzoC&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
+  </div>
 </div>
-
-<br/>
-
-## 📈 Research Impact & Rankings
-
-<div align="center">
-  <table style="background: #0a0f1e; border-radius: 15px; padding: 10px;">
-    <tr>
-      <td align="center">🏆 <strong>16</strong><br/>Peer-Reviewed<br/>Publications</td>
-      <td align="center">⭐ <strong>14</strong><br/>Q1 Journal<br/>Papers</td>
-      <td align="center">📊 <strong>7.5</strong><br/>Highest Impact<br/>Factor</td>
-      <td align="center">🌍 <strong>3.68+</strong><br/>MS & PhD<br/>CGPA</td>
-    </tr>
-    <tr>
-      <td align="center">🔬 <strong>BHCNet</strong><br/>Brain Hemorrhage<br/>Detection</td>
-      <td align="center">🛡️ <strong>IoTTPS</strong><br/>IoT Threat<br/>Protection</td>
-      <td align="center">📖 <strong>Ensemble LRD</strong><br/>Sentiment Analysis<br/>(ESWA 2025)</td>
-      <td align="center">🇵🇰 <strong>Prime Minister's</strong><br/>Fully Funded<br/>Scholar</td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-## 🔬 Flagship Research Contributions
-
-| Project | Technology Stack | Impact |
-|:--------|:----------------|:-------|
-| **BHCNet** | CNN, CT Scan Analysis | Automated brain hemorrhage detection from head CT scans |
-| **EfficientNetV2L** | Transfer Learning, Chest X-ray | Pneumonia detection with novel architecture (IEEE Access 2024) |
-| **Ensemble LRD Model** | BERT, Transformers, Deep Learning | Sentiment analysis with improved classification (IF: 7.5) |
-| **IoTTPS** | Ensemble RKSVM, IoT Security | Threat protection system for Internet of Things (Sensors 2023) |
-| **RUTUT** | Rule-based, Unicode Mapping | Roman Urdu to Urdu translation for South Asian languages |
-
-<br/>
-
-## 📜 Selected High-Impact Publications (IF > 4)
-
-| # | Title | Journal | Year | Impact Factor |
-|:--|:------|:--------|:-----|:--------------|
-| 1 | *Anticipating impression using textual sentiment based on ensemble LRD model* | Expert Systems with Applications | 2025 | ★ 7.5 |
-| 2 | *Ensemble stacked model for enhanced identification of sentiments from IMDB reviews* | Scientific Reports (Nature) | 2025 | ★ 4.6 |
-| 3 | *Ensemble genetic and CNN model-based image classification* | Scientific Reports (Nature) | 2025 | ★ 4.6 |
-| 4 | *ANFIS Fuzzy CNN for leaf disease detection* | Frontiers in Plant Science | 2024 | ★ 5.6 |
-| 5 | *Hierarchical attention module for wafer hotspot detection* | IEEE Access | 2024 | ★ 3.9 |
-| 6 | *Hybrid ML for botnet attack detection in IoT* | IEEE Access | 2024 | ★ 3.9 |
-| 7 | *Pneumonia detection using EfficientNetV2L* | IEEE Access | 2024 | ★ 3.9 |
-| 8 | *IoTTPS: Ensemble RKSVM for IoT threat protection* | Sensors (MDPI) | 2023 | ★ 3.9 |
-
-<details>
-<summary>📌 View Complete Publication List (8+ more papers)</summary>
-
-- *Phishing detection system through hybrid machine learning based on URL* – IEEE Access, 2023
-- *LDSVM: Leukemia cancer classification* – Computers, Materials & Continua, 2022
-- *Feature discrimination of news based on canopy and KMGC-search* – IEEE Access, 2022
-- *Elderly fall activity detection* – Springer LNCS, 2022
-- *LSD: Coal mining accident cause discrimination* – Springer LNCS, 2022
-- *RUTUT: Roman Urdu to Urdu translator* – IEEE Access, 2020
-- *IoT-based smart shopping cart using RFID* – IEEE Access, 2020
-</details>
-
-<br/>
-
-## 💼 Professional Experience
-
-| Role | Organization | Period | Key Achievements |
-|:-----|:-------------|:-------|:-----------------|
-| **Lecturer** | Dept. of AI, IUB | 2022–Present | 12 Q1 publications during tenure, courses in ML/DL/NLP/CV |
-| **AI Instructor** | BuiltinSoft (NAVTTC) | 2025–Present | Industry-focused ML/DL training, Python/TensorFlow/PyTorch |
-| **Research Assistant** | Sir Sadiq RCC, IUB | 2021–2022 | 6 papers on medical AI, cybersecurity, multilingual NLP |
-| **Research/TA** | Fareed CRC, KFUEIT | 2018–2020 | IoT smart cart, RUTUT translation, BHCNet development |
-
-### Leadership & Service
-- 🎤 **Conference Presenter** – SCDM 2022, Malaysia
-- 🤝 **Co-organizer** – ICMPAI 2022, IUB Pakistan
-- 📊 **Project Manager** – AI Project Expo 2022, 2023, 2024
-- 📝 **Peer Reviewer** – IEEE Access, Scientific Reports, Expert Systems with Applications
-
-<br/>
-
-## 🎓 Education & Certifications
-
-| Degree | Institution | CGPA | Year |
-|:-------|:------------|:-----|:-----|
-| Ph.D. Computer Science | The Islamia University of Bahawalpur | 3.57 | 2021–2024 |
-| M.S. Computer Science | KFUEIT, Rahim Yar Khan | 3.68 | 2018–2020 |
-| M.Sc. Computer Science | KFUEIT, Rahim Yar Khan | 3.66 | 2016–2018 |
-
-**Certifications:** IELTS Academic (B2/C1, March 2026) • Conference Presenter (SCDM 2022) • ICMPAI Co-organizer
-
-<br/>
-
-## 🤝 Collaboration Offers – How I Can Help You
-
-| If you're working on... | I can contribute with... |
-|:------------------------|:-------------------------|
-| 🧠 **LLMs for low-resource languages** | Fine-tuning BERT/Transformers for Roman Urdu/Urdu |
-| 🩻 **Medical imaging diagnostics** | BHCNet, EfficientNetV2L, Grad-CAM explainability |
-| 🔒 **IoT/Network security** | Botnet detection, phishing detection, RKSVM-based protection |
-| 📊 **Hyperparameter optimization** | Genetic algorithms + CNN ensemble tuning |
-| 📝 **Paper writing / peer review** | 14 Q1 publications experience, review for IEEE Access/Scientific Reports |
-
-> 💡 **Open for:** Post-doctoral positions • Industry R&D roles • Research collaborations • Guest lectures • Mentorship
-
-<br/>
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/MobeenShahroz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0a0f1e"/></a>
-  <a href="https://www.linkedin.com/in/mobeen-shahroz-6b9915133"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mobeensahhroz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://scholar.google.com/citations?user=fyQl0QYnkzoC&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MobeenShahroz&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views" />
@@ -247,5 +361,5 @@
 <div align="center">
   <i style="color: #64ffda;">“From research papers to production models — engineering intelligent systems that impact healthcare, security, and beyond.”</i>
   <br/><br/>
-  <sub>© 2025 Dr. Mobeen Shahroz | AI Researcher | Last Updated: May 2026</sub>
+  <sub style="color: #5a6e8a;">© 2025 Dr. Mobeen Shahroz | AI Researcher | Last Updated: May 2026</sub>
 </div>
