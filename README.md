@@ -7,36 +7,49 @@
 -->
 
 <div align="center">
-  <pre style="background: linear-gradient(135deg, #0a0f1e, #0d1525, #1a1a2e); padding: 12px 20px; border-radius: 20px; border: 1px solid rgba(0,217,255,0.3); font-family: 'Courier New', monospace; line-height: 1.15; color: #00D9FF; text-shadow: 0 0 5px #00D9FF;">
-╔══════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                              ║
-║     ██████╗ ██████╗     ███╗   ███╗ ██████╗ ██████╗ ███████╗███████╗███╗   ██╗               ║
-║     ██╔══██╗██╔══██╗    ████╗ ████║██╔═══██╗██╔══██╗██╔════╝██╔════╝████╗  ██║               ║
-║     ██║  ██║██████╔╝    ██╔████╔██║██║   ██║██████╔╝█████╗  █████╗  ██╔██╗ ██║               ║
-║     ██║  ██║██╔══██╗    ██║╚██╔╝██║██║   ██║██╔══██╗██╔══╝  ██╔══╝  ██║╚██╗██║               ║
-║     ██████╔╝██║  ██║    ██║ ╚═╝ ██║╚██████╔╝██████╔╝███████╗███████╗██║ ╚████║               ║
-║     ╚═════╝ ╚═╝  ╚═╝    ╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═══╝               ║
-║                                                                                              ║
-║                    🧠 AI/ML RESEARCHER | LLM SPECIALIST | DEEP LEARNING ENGINEER            ║
-║                                                                                              ║
-║    ╔═══════════════════════════════════════════════════════════════════════════════════╗    ║
-║    ║  🎓 PhD in CS | 📚 16+ Q1 Publications | ⭐ IF: 7.5 | 💼 8+ Years Experience       ║    ║
-║    ║  🔬 Business Challenge → Deployed AI Solution | Data → Decisions | Measurable      ║    ║
-║    ╚═══════════════════════════════════════════════════════════════════════════════════╝    ║
-║                                                                                              ║
-║               ✦ "Research-grade precision | Production-ready results | Fewer bugs" ✦       ║
-║                                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════════════════════╝
-  </pre>
-</div>
-
-<br/>
-
-<div align="center">
-  <div style="background: linear-gradient(90deg, #0a0f1e, #1a1a2e, #0a0f1e); border-radius: 40px; padding: 8px 25px; display: inline-block; border: 1px solid rgba(0,217,255,0.4);">
-    <p style="color: #64ffda; font-family: 'Georgia', serif; font-size: 0.9rem; letter-spacing: 1px; margin: 8px 0;">
-      ⚡ From business challenge → deployed AI solution. I turn data into decisions, automate what slows you down. ⚡
-    </p>
+  <div style="background: #0a0f1e; border-radius: 30px; padding: 30px 20px; margin: 20px 0; border: 1px solid #00D9FF; box-shadow: 0 0 20px rgba(0,217,255,0.2), inset 0 0 30px rgba(0,217,255,0.03);">
+    
+    <!-- Neon Corner Accents -->
+    <div style="position: relative;">
+      <div style="position: absolute; top: -15px; left: -15px; width: 40px; height: 40px; border-top: 3px solid #00D9FF; border-left: 3px solid #00D9FF; border-radius: 8px 0 0 0;"></div>
+      <div style="position: absolute; top: -15px; right: -15px; width: 40px; height: 40px; border-top: 3px solid #00D9FF; border-right: 3px solid #00D9FF; border-radius: 0 8px 0 0;"></div>
+      <div style="position: absolute; bottom: -15px; left: -15px; width: 40px; height: 40px; border-bottom: 3px solid #00D9FF; border-left: 3px solid #00D9FF; border-radius: 0 0 0 8px;"></div>
+      <div style="position: absolute; bottom: -15px; right: -15px; width: 40px; height: 40px; border-bottom: 3px solid #00D9FF; border-right: 3px solid #00D9FF; border-radius: 0 0 8px 0;"></div>
+    </div>
+    
+    <!-- Glitch Text Effect -->
+    <h1 style="font-size: 2.8rem; font-weight: 800; margin: 0; font-family: 'Courier New', monospace; text-shadow: 2px 2px 0 #00D9FF, -2px -2px 0 #0066ff; color: #ccd6f6; letter-spacing: -1px;">
+      DR. MOBEEN SHAHROZ
+    </h1>
+    
+    <div style="margin: 15px 0;">
+      <code style="background: #0a0f1e; color: #64ffda; padding: 5px 15px; border-radius: 20px; border: 1px dashed #00D9FF; font-size: 0.8rem;">
+        ▸ AI/ML RESEARCHER · LLM SPECIALIST · DEEP LEARNING ENGINEER ◂
+      </code>
+    </div>
+    
+    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+      <span style="font-family: monospace; color: #00D9FF;">[ PhD in CS ]</span>
+      <span style="color: #5a6e8a;">|</span>
+      <span style="font-family: monospace; color: #00D9FF;">[ 16+ Q1 Publications ]</span>
+      <span style="color: #5a6e8a;">|</span>
+      <span style="font-family: monospace; color: #00D9FF;">[ IF: 7.5 ]</span>
+      <span style="color: #5a6e8a;">|</span>
+      <span style="font-family: monospace; color: #00D9FF;">[ 8+ Years ]</span>
+    </div>
+    
+    <div style="background: rgba(0,217,255,0.05); border-radius: 15px; padding: 12px 20px; margin: 15px 0; border-left: 3px solid #00D9FF; border-right: 3px solid #00D9FF;">
+      <p style="color: #64ffda; margin: 0; font-family: monospace; font-size: 0.9rem;">
+        ⚡ Business Challenge → Deployed AI Solution | Data → Decisions | Measurable Results ⚡
+      </p>
+    </div>
+    
+    <div>
+      <p style="color: #5a6e8a; margin: 10px 0 0 0; font-size: 0.85rem;">
+        ✦ "Research-grade precision | Production-ready results | Fewer bugs" ✦
+      </p>
+    </div>
+    
   </div>
 </div>
 
