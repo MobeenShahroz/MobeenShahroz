@@ -1,43 +1,48 @@
-<!-- 
-████████████████████████████████████████████████████████████████████████████████
-█                       DR. MOBEEN SHAHROZ | AI RESEARCHER                       █
-█                    Ph.D. Computer Science | 16 Q1 Publications                  █
-████████████████████████████████████████████████████████████████████████████████
--->
 <div align="center">
-  <table style="background-color: #0a0f1e; border: 2px solid #00D9FF; border-radius: 20px; padding: 20px; width: 100%;">
-    <tr><td align="center">
-      
-      <h1>
-        <span style="font-size: 2rem;">🧠</span>
-        <span style="color: #00D9FF;"> + </span>
-        <span style="font-size: 2rem;">🤖</span>
-        <span style="color: #00D9FF;"> + </span>
-        <span style="font-size: 2rem;">🔬</span>
-      </h1>
-      
-      <h1 style="color: #00D9FF;">DR. MOBEEN SHAHROZ</h1>
-      
-      <p style="color: #64ffda;">🔹 AI RESEARCHER 🔹 ML DEVELOPER 🔹 LLM EXPERT 🔹</p>
-      
-      <hr style="border-color: #00D9FF; width: 50%;">
-      
-      <p>
-        <span style="color: #00D9FF;">🎓 PhD in CS</span> &nbsp;|&nbsp;
-        <span style="color: #00D9FF;">📚 16+ Q1 Pubs</span> &nbsp;|&nbsp;
-        <span style="color: #00D9FF;">⭐ IF 7.5</span> &nbsp;|&nbsp;
-        <span style="color: #00D9FF;">💼 8+ Years</span>
-      </p>
-      
-      <p style="color: #64ffda;">🚀 Business Challenge → Deployed AI Solution → Data → Decisions 🚀</p>
-      
-      <p style="color: #5a6e8a;">✨ "Research-grade precision · Production-ready results · Fewer bugs" ✨</p>
-      
-    </td></tr>
+  
+  <br/>
+  
+  <table bgcolor="#0a0f1e" border="1" bordercolor="#00D9FF" cellpadding="20" cellspacing="0" width="100%">
+    <tr>
+      <td align="center">
+        
+        <h1>
+          🧠 &nbsp;&nbsp;+&nbsp;&nbsp; 🤖 &nbsp;&nbsp;+&nbsp;&nbsp; 🔬
+        </h1>
+        
+        <h1>
+          <font color="#00D9FF"><b>DR. MOBEEN SHAHROZ</b></font>
+        </h1>
+        
+        <p>
+          <font color="#64ffda"><b>🔹 AI RESEARCHER 🔹 ML DEVELOPER 🔹 LLM EXPERT 🔹</b></font>
+        </p>
+        
+        <hr width="50%" noshade/>
+        
+        <p>
+          <font color="#00D9FF"><b>🎓 PhD in CS</b></font> &nbsp;|&nbsp;
+          <font color="#00D9FF"><b>📚 16+ Q1 Pubs</b></font> &nbsp;|&nbsp;
+          <font color="#00D9FF"><b>⭐ IF 7.5</b></font> &nbsp;|&nbsp;
+          <font color="#00D9FF"><b>💼 8+ Years</b></font>
+        </p>
+        
+        <p>
+          <font color="#64ffda"><b>🚀 Business Challenge → Deployed AI Solution → Data → Decisions 🚀</b></font>
+        </p>
+        
+        <p>
+          <font color="#5a6e8a">✨ "Research-grade precision · Production-ready results · Fewer bugs" ✨</font>
+        </p>
+        
+      </td>
+    </tr>
   </table>
+  
+  <br/>
+  
 </div>
 
-<br/>
 <!-- WHO AM I SECTION -->
 <div align="center">
   <h2 style="color: #00D9FF;">🎯 WHO AM I?</h2>
