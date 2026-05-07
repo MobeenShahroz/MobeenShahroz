@@ -7,54 +7,94 @@
 
 <div align="center">
   
-  <!-- Glass Card Header -->
-  <div style="background-color: rgba(10,15,30,0.9); border: 1px solid rgba(0,217,255,0.4); border-radius: 40px; padding: 35px 25px; margin: 20px auto; max-width: 850px;">
-    
-    <!-- Icon Row -->
-    <div style="margin-bottom: 20px;">
-      <span style="font-size: 2rem;">🧠</span>
-      <span style="font-size: 1.5rem; color: #00D9FF; margin: 0 10px;">+</span>
-      <span style="font-size: 2rem;">🤖</span>
-      <span style="font-size: 1.5rem; color: #00D9FF; margin: 0 10px;">+</span>
-      <span style="font-size: 2rem;">🔬</span>
-    </div>
-    
-    <!-- Name -->
-    <h1 style="color: #00D9FF; font-size: 2.5rem; margin: 0; letter-spacing: 2px;">
-      DR. MOBEEN SHAHROZ
-    </h1>
-    
-    <!-- Subtitle with Icons -->
-    <div style="margin: 15px 0;">
-      <p style="color: #64ffda; font-size: 1rem; letter-spacing: 3px; word-spacing: 8px;">
-        ◤ AI RESEARCHER ◢ &nbsp;&nbsp;◤ ML DEVELOPER ◢ &nbsp;&nbsp;◤ LLM EXPERT ◢
-      </p>
-    </div>
-    
-    <!-- Stats with Icons Box -->
-    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 25px 0; padding: 15px; background-color: rgba(0,217,255,0.05); border-radius: 30px;">
-      <div><span style="font-size: 1.5rem;">🎓</span> <span style="color: #ccd6f6;">PhD in CS</span></div>
-      <div><span style="font-size: 1.5rem;">📚</span> <span style="color: #ccd6f6;">16+ Q1 Pubs</span></div>
-      <div><span style="font-size: 1.5rem;">⭐</span> <span style="color: #ccd6f6;">IF 7.5</span></div>
-      <div><span style="font-size: 1.5rem;">💼</span> <span style="color: #ccd6f6;">8+ Years</span></div>
-    </div>
-    
-    <!-- Mission Statement with Rocket -->
-    <div style="background-color: rgba(0,217,255,0.05); border-radius: 20px; padding: 15px; margin: 20px 0;">
-      <p style="color: #64ffda; margin: 0; font-size: 1rem;">
-        🚀 Business Challenge → Deployed AI Solution → Data → Decisions → Measurable Results 🚀
-      </p>
-    </div>
-    
-    <!-- Quote -->
-    <div style="margin-top: 15px;">
-      <p style="color: #5a6e8a; margin: 0;">
-        ⚡ "Research-grade precision · Production-ready results · Fewer bugs" ⚡
-      </p>
-    </div>
-    
-  </div>
+  <!-- Header Container -->
+  <table style="width: 100%; background-color: #0a0f1e; border: 2px solid #00D9FF; border-radius: 25px; padding: 25px;">
+    <tr>
+      <td align="center">
+        
+        <!-- Icon Row -->
+        <div style="margin-bottom: 20px;">
+          <span style="font-size: 2rem;">🧠</span>
+          <span style="font-size: 1.5rem; color: #00D9FF;"> + </span>
+          <span style="font-size: 2rem;">🤖</span>
+          <span style="font-size: 1.5rem; color: #00D9FF;"> + </span>
+          <span style="font-size: 2rem;">🔬</span>
+        </div>
+        
+        <!-- Name -->
+        <h1 style="color: #00D9FF; font-size: 2rem; margin: 0;">
+          DR. MOBEEN SHAHROZ
+        </h1>
+        
+        <!-- Subtitle -->
+        <p style="color: #64ffda; font-size: 0.9rem; margin: 15px 0;">
+          ◤ AI RESEARCHER ◢ &nbsp;&nbsp;|&nbsp;&nbsp; ◤ ML DEVELOPER ◢ &nbsp;&nbsp;|&nbsp;&nbsp; ◤ LLM EXPERT ◢
+        </p>
+        
+        <!-- Stats Row using Table (GitHub-friendly) -->
+        <table style="width: 100%; margin: 20px 0; background-color: #0f0f1a; border-radius: 30px; padding: 10px;">
+          <tr>
+            <td align="center" style="padding: 8px;"><span style="font-size: 1.5rem;">🎓</span> <span style="color: #ccd6f6;">PhD in CS</span></td>
+            <td align="center" style="padding: 8px;"><span style="font-size: 1.5rem;">📚</span> <span style="color: #ccd6f6;">16+ Q1 Pubs</span></td>
+            <td align="center" style="padding: 8px;"><span style="font-size: 1.5rem;">⭐</span> <span style="color: #ccd6f6;">IF 7.5</span></td>
+            <td align="center" style="padding: 8px;"><span style="font-size: 1.5rem;">💼</span> <span style="color: #ccd6f6;">8+ Years</span></td>
+          </tr>
+        </table>
+        
+        <!-- Mission Statement -->
+        <div style="background-color: #0f0f1a; border-left: 4px solid #00D9FF; border-right: 4px solid #00D9FF; border-radius: 15px; padding: 12px; margin: 20px 0;">
+          <p style="color: #64ffda; margin: 0;">
+            🚀 Business Challenge → Deployed AI Solution → Data → Decisions → Measurable Results 🚀
+          </p>
+        </div>
+        
+        <!-- Quote -->
+        <div style="margin-top: 15px;">
+          <p style="color: #5a6e8a; margin: 0;">
+            ⚡ "Research-grade precision · Production-ready results · Fewer bugs" ⚡
+          </p>
+        </div>
+        
+      </td>
+    </tr>
+  </table>
   
+</div>
+
+<br/>
+🔥 Alternative: Even Simpler (Guaranteed to Work)
+markdown
+<div align="center">
+  <table style="background-color: #0a0f1e; border: 2px solid #00D9FF; border-radius: 20px; padding: 20px; width: 100%;">
+    <tr><td align="center">
+      
+      <h1>
+        <span style="font-size: 2rem;">🧠</span>
+        <span style="color: #00D9FF;"> + </span>
+        <span style="font-size: 2rem;">🤖</span>
+        <span style="color: #00D9FF;"> + </span>
+        <span style="font-size: 2rem;">🔬</span>
+      </h1>
+      
+      <h1 style="color: #00D9FF;">DR. MOBEEN SHAHROZ</h1>
+      
+      <p style="color: #64ffda;">🔹 AI RESEARCHER 🔹 ML DEVELOPER 🔹 LLM EXPERT 🔹</p>
+      
+      <hr style="border-color: #00D9FF; width: 50%;">
+      
+      <p>
+        <span style="color: #00D9FF;">🎓 PhD in CS</span> &nbsp;|&nbsp;
+        <span style="color: #00D9FF;">📚 16+ Q1 Pubs</span> &nbsp;|&nbsp;
+        <span style="color: #00D9FF;">⭐ IF 7.5</span> &nbsp;|&nbsp;
+        <span style="color: #00D9FF;">💼 8+ Years</span>
+      </p>
+      
+      <p style="color: #64ffda;">🚀 Business Challenge → Deployed AI Solution → Data → Decisions 🚀</p>
+      
+      <p style="color: #5a6e8a;">✨ "Research-grade precision · Production-ready results · Fewer bugs" ✨</p>
+      
+    </td></tr>
+  </table>
 </div>
 
 <br/>
