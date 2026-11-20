@@ -1,12 +1,12 @@
 # Dr. Mobeen Shahroz
 
-### Machine Learning | AI Developer | Computer Vision | Python | FastAPI
+### Machine Learning | Deap Learning | Computer Vision | NLP | Python | FastAPI
 
-I help teams turn image, text, and document data into useful machine-learning solutions. My work covers model development and evaluation, computer vision, NLP, document intelligence, and Python-based application integration.
+I help teams turn image, text, and document data into useful machine-learning solutions. My work covers model development and evaluation, computer vision, NLP, document intelligence, and Python based application integration.
 
 I combine a research background with practical implementation: understanding the problem, assessing the available data, establishing evaluation criteria, and delivering clearly documented work within the agreed scope.
 
-**Ph.D. in Computer Science (2024)** · Lecturer, Department of Artificial Intelligence, The Islamia University of Bahawalpur · **14 Q1 journal publications**
+**Ph.D. in Computer Science (2024)** · Lecturer, Department of Artificial Intelligence, The Islamia University of Bahawalpur · **14 journal publications**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?logo=github)](https://github.com/MobeenShahroz)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20me-14A800?logo=upwork)](https://www.upwork.com/freelancers/mobeenshahroz)
@@ -19,7 +19,7 @@ I combine a research background with practical implementation: understanding the
 
 | Project need | Possible contribution |
 |---|---|
-| **Understand images or video frames** | Computer-vision workflows for image classification, object detection, image analysis, and visual anomaly-detection prototypes. |
+| **Understand images or video frames** | Computer vision workflows for image classification, object detection, image analysis, and visual anomaly-detection prototypes. |
 | **Build a predictive or classification model** | Data preparation, feature engineering, machine-learning/deep-learning model development, baseline comparison, and evaluation. |
 | **Analyse text and feedback** | NLP workflows for sentiment analysis, text classification, information extraction, and multilingual text processing. |
 | **Search and analyse document collections** | PDF processing, OCR, semantic and keyword retrieval, and retrieval-augmented generation (RAG) prototypes. |
@@ -112,11 +112,11 @@ Tools are selected according to the problem, data, infrastructure, and maintenan
 
 ## How I approach a project
 
-1. **Understand the use case** — clarify the problem, intended users, inputs, expected outputs, and constraints.
-2. **Assess the data** — review representative samples, data quality, labels, class balance, and privacy considerations.
-3. **Set a baseline** — choose appropriate metrics and establish a measurable starting point.
-4. **Develop and evaluate** — implement the agreed method, compare alternatives, and examine errors and limitations.
-5. **Integrate and hand over** — provide the agreed application/API components, source code, evaluation results, and documentation.
+1. **Understand the use case**: clarify the problem, intended users, inputs, expected outputs, and constraints.
+2. **Assess the data**: review representative samples, data quality, labels, class balance, and privacy considerations.
+3. **Set a baseline**: choose appropriate metrics and establish a measurable starting point.
+4. **Develop and evaluate**: implement the agreed method, compare alternatives, and examine errors and limitations.
+5. **Integrate and hand over**: provide the agreed application/API components, source code, evaluation results, and documentation.
 
 Scope, milestones, data requirements, and deliverables are agreed before development begins.
 
